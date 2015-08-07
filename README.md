@@ -5,7 +5,7 @@ This small API provides the functionality to access the
 Nuance Dragon [SDK](http://www.nuance.de/for-developers/dragon/client-sdk/index.htm) using the CURL command from Linux.
 
  
-**Exmaple**
+**Example**
 
      File shellScript = new File("ABSOLUTE_PATH_TO/nuance_curl.sh");
      
